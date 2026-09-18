@@ -1,0 +1,1 @@
+../drivers/bsp/tft_ili9341/stm32g4_fonts.c:351:7:FONTS_GetStringSize	1

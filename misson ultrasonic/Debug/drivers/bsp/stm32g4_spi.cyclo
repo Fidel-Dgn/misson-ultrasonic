@@ -1,0 +1,14 @@
+../drivers/bsp/stm32g4_spi.c:116:6:SPI_GPIO_FULLDUPLEX_config	4
+../drivers/bsp/stm32g4_spi.c:165:6:SPI_GPIO_HALFDUPLEX_or_TRANSMITONLY_config	7
+../drivers/bsp/stm32g4_spi.c:223:6:SPI_GPIO_RECEIVEONLY_config	7
+../drivers/bsp/stm32g4_spi.c:57:6:BSP_SPI_Init	15
+../drivers/bsp/stm32g4_spi.c:282:9:BSP_SPI_ReadNoRegister	4
+../drivers/bsp/stm32g4_spi.c:298:6:BSP_SPI_ReadMultiNoRegister	4
+../drivers/bsp/stm32g4_spi.c:310:6:BSP_SPI_WriteNoRegister	4
+../drivers/bsp/stm32g4_spi.c:323:6:BSP_SPI_WriteMultiNoRegister	4
+../drivers/bsp/stm32g4_spi.c:331:9:BSP_SPI_WriteRead	4
+../drivers/bsp/stm32g4_spi.c:355:6:BSP_SPI_WriteReadBuffer	2
+../drivers/bsp/stm32g4_spi.c:371:6:BSP_SPI_SetDataSize	1
+../drivers/bsp/stm32g4_spi.c:393:6:SPI_Cmd	2
+../drivers/bsp/stm32g4_spi.c:418:6:BSP_SPI_setBaudRate	4
+../drivers/bsp/stm32g4_spi.c:428:10:BSP_SPI_getBaudrate	4

@@ -1,0 +1,2 @@
+../drivers/bsp/stm32g4_gpio.c:41:6:BSP_GPIO_enable	24	static
+../drivers/bsp/stm32g4_gpio.c:63:6:BSP_GPIO_pin_config	48	static

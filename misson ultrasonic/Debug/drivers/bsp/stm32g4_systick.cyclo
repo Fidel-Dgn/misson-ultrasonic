@@ -1,0 +1,5 @@
+../drivers/bsp/stm32g4_systick.c:32:6:BSP_systick_init	2
+../drivers/bsp/stm32g4_systick.c:48:6:BSP_systick_add_callback_function	4
+../drivers/bsp/stm32g4_systick.c:73:6:BSP_systick_remove_callback_function	4
+../drivers/bsp/stm32g4_systick.c:89:10:BSP_systick_get_time_us	2
+../drivers/bsp/stm32g4_systick.c:110:6:SysTick_Handler	4

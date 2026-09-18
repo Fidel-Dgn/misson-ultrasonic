@@ -1,0 +1,7 @@
+../drivers/bsp/stm32g4_flash.c:118:13:FLASH_erase	1
+../drivers/bsp/stm32g4_flash.c:131:13:FLASH_write_doubleword	1
+../drivers/bsp/stm32g4_flash.c:75:10:BSP_FLASH_read_doubleword	1
+../drivers/bsp/stm32g4_flash.c:103:13:FLASH_keeping_everything_else	5
+../drivers/bsp/stm32g4_flash.c:59:6:BSP_FLASH_set_doubleword	2
+../drivers/bsp/stm32g4_flash.c:89:6:BSP_FLASH_dump	2
+../drivers/bsp/stm32g4_flash.c:33:6:FLASH_demo	1

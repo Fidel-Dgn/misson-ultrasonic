@@ -1,0 +1,7 @@
+../drivers/bsp/stm32g4_sys.c:44:6:BSP_SYS_set_std_usart	1
+../drivers/bsp/stm32g4_sys.c:125:5:_read	4
+../drivers/bsp/stm32g4_sys.c:157:5:_write	5
+../drivers/bsp/stm32g4_sys.c:196:6:Error_Handler	1
+../drivers/bsp/stm32g4_sys.c:76:6:SystemClock_Config	1
+../drivers/bsp/stm32g4_sys.c:55:6:HAL_MspInit	1
+../drivers/bsp/stm32g4_sys.c:222:10:dump_printf	2

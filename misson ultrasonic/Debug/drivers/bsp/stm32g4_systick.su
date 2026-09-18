@@ -1,0 +1,5 @@
+../drivers/bsp/stm32g4_systick.c:32:6:BSP_systick_init	8	static
+../drivers/bsp/stm32g4_systick.c:48:6:BSP_systick_add_callback_function	8	static
+../drivers/bsp/stm32g4_systick.c:73:6:BSP_systick_remove_callback_function	8	static
+../drivers/bsp/stm32g4_systick.c:89:10:BSP_systick_get_time_us	8	static,ignoring_inline_asm
+../drivers/bsp/stm32g4_systick.c:110:6:SysTick_Handler	8	static

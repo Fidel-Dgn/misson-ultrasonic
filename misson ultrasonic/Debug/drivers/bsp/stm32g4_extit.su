@@ -1,0 +1,13 @@
+../drivers/bsp/stm32g4_extit.c:39:13:call_extit_user_callback	8	static
+../drivers/bsp/stm32g4_extit.c:74:6:BSP_EXTIT_enable	0	static,ignoring_inline_asm
+../drivers/bsp/stm32g4_extit.c:62:6:BSP_EXTIT_set_callback	8	static
+../drivers/bsp/stm32g4_extit.c:101:6:BSP_EXTIT_disable	0	static,ignoring_inline_asm
+../drivers/bsp/stm32g4_extit.c:135:9:BSP_EXTIT_gpiopin_to_pin_number	0	static
+../drivers/bsp/stm32g4_extit.c:167:6:BSP_EXTIT_ack_it	0	static
+../drivers/bsp/stm32g4_extit.c:180:6:EXTI0_IRQHandler	8	static
+../drivers/bsp/stm32g4_extit.c:185:6:EXTI1_IRQHandler	8	static
+../drivers/bsp/stm32g4_extit.c:190:6:EXTI2_IRQHandler	8	static
+../drivers/bsp/stm32g4_extit.c:195:6:EXTI3_IRQHandler	8	static
+../drivers/bsp/stm32g4_extit.c:200:6:EXTI4_IRQHandler	8	static
+../drivers/bsp/stm32g4_extit.c:206:6:EXTI9_5_IRQHandler	8	static
+../drivers/bsp/stm32g4_extit.c:215:6:EXTI15_10_IRQHandler	8	static
